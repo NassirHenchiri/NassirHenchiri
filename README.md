@@ -23,11 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalifiabillal&show_icons=true" alt="kalifiabillal" /></p>
 
-<p align="center">
-<a href="https://twitter.com/mujtahidd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mujtahidd" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/kalifiabillal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kalifiabillal" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/9471290/kalifia-billal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9471290/kalifia-billal" height="30" width="30" /></a>
-<a href="https://kaggle.com/kalifiabillal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kalifiabillal" height="30" width="30" /></a>
-<a href="https://fb.com/kalifiabillal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kalifiabillal" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uce89yajjeaif0fhtfugqj-a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uce89yajjeaif0fhtfugqj-a" height="30" width="30" /></a>
-</p>
+
