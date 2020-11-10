@@ -3,13 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalifiabillal" alt="henchiriNassir" /> </p>
 
-- 🔭 I’m currently working on [FlutterQuran](https://github.com/NassirHenchiri/FlutterQuran)
-
-- 🌱 I’m currently learning **SpringBoot**
-
-- 👯 I’m looking to collaborate on [Till-Dawn-TDS-GAME](https://github.com/NassirHenchiri/Till-Dawn-TDS-GAME)
-
-- 🤝 I’m looking for help with [Auction it](https://github.com/NassirHenchiri/AuctionIt)
 
 - 💬 Ask me about **Android , IOS and Front end web dev**
 
