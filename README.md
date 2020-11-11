@@ -16,8 +16,8 @@
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/unity/unity-original-wordmark.svg" alt="react" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/unity/unity-original-wordmark.svg" alt="react" width="40" height="40"/> 
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/unity/unity-original-wordmark.svg" alt="unity" width="40" height="40"/> 
 </svg> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NassirHenchiri&layout=compact&hide=html" alt="NassirHenchiri" /></p>
