@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **hen.nassir@gmail.com**
 
-- ⚡ Fun fact **I am a huge Mobile dev enthusiast**
+- ⚡ Fun fact **I am a huge software dev enthusiast**
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-plain.svg" alt="bootstrap" width="40" height="40"/>
